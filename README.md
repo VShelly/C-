@@ -1,2 +1,2 @@
-# SMSSend
+# 基于net发送短信 SMSSend
 发送短信，集合阿里云，容联云通讯
